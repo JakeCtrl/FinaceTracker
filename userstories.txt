@@ -1,0 +1,29 @@
+Gabby User Story:
+    Gabby is a freshman college student and notices she is spending a lot of money on things she doesn't need
+    she is worried that she is spending too much but doesn't know what to cut back on or what her income is.
+    She wants to improve her spending habits but doesn't want it to be too burdensome to her daily life. She wants
+    recommendations on where to cut spending most effectively so that she can spend her time with friends having fun.
+    She wants to save money and invest but doesn't make it a priority as its overwhelming for her. She wants things
+    to be simple to understand and to interact with the easier the better
+
+Jake User Story:
+    Jake is a Junior in college and his main priority is growing wealth so he can increase his net worth and cash
+    flow. He has a general understanding of his expenses but wants more data on his spending habits. He is willing
+    to put more time into working on his financial goals. He wants more money so that he can invest in stocks, real
+    estate, and any business ventures. He want's to increase his cash flow strategically making decreases in spending
+    in areas that make the most % of his spending. He is willing to make more sacrifices than the average person. He
+    wants very detailed and actionable info. He also wants to make sure he is utilizing the most cash back possible
+    and wants reminders to do so. He also wants to differentiate his discretionary spending from his necessary spending.
+    He also finds easy of use to be a priority as he wants spend time on more important things than looking at spending.
+
+
+
+
+USER STORIES OUTLINE
+The persona:
+
+The feature:
+
+The Need:
+
+Example: As a user, I want to keep track of my expenses so I can keep my spending in line
