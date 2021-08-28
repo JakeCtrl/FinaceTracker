@@ -49,7 +49,8 @@ auth_token = AUTH_TOKEN
 
 client = Client(account_sid, auth_token)
 
-client.messages.create(body = "32", from_ = MY_NUMBER, to= '+19806998508' )
+#client.messages.create(body = "32", from_ = MY_NUMBER, to= '+19806998508' )
+messages = client.messages.list(limit=20, from_= '+19806998508')
 
 #Twillo End ==============================================================================================
 
